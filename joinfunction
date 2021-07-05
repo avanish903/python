@@ -1,0 +1,10 @@
+list1=["hritik","tiger","viddhut","shraddha","arun govil","dipika chikhliviya"]
+# for items in list1:
+#     print(items, "and", end=" ")
+
+# same thing we can do using join function
+# b=" and ".join(list1)
+b=" , ".join(list1)
+print(b)
+print("other bollywood stars")    
+    
